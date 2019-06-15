@@ -1,12 +1,14 @@
-- name: Sobre
+- name: sobre
   link: /sobre.html
-- name: Edição
+- name: edição
   link: /edicao.html
-- name: Comitês
+- name: comitês
   link: /comites.html
-- name: Inscrições
+- name: inscrições
   link: /inscricoes.html
-- name: Parcerias
+- name: BRICS
+  link: /404.html
+- name: parcerias
   link: /parcerias.html
 - name: FAQ
   link: /duvidas.html

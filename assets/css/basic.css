@@ -1,11 +1,12 @@
 /* SET UP */
-@import url('https://fonts.googleapis.com/css?family=Montserrat:400,500,900|Roboto');
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,800|Roboto');
 
 body {
     font-family: 'Roboto', sans-serif;
     font-size: 100%;
     line-height: 1.25em;
-    background-color: #ddd;
+    /* background-color: #ddd; */
+    background-color: #fffefe;
     color: #fff;
     overflow-x: hidden;
 }
@@ -20,8 +21,8 @@ table {
 }
 
 hr {
-	background-color: #FFF;
-	display: block;
+    background-color: #FFF;
+    display: block;
     margin: 0;
     padding-top: 0.01vh;
 }
@@ -29,7 +30,7 @@ hr {
 /* TEXT */
 h1, h2, h3, h4 {
     font-family: 'Montserrat', sans-serif;
-    font-weight: 500;
+    font-weight: 800;
     max-width: 90vw;
     text-align: center;
     display: block;
@@ -44,6 +45,12 @@ p {
 
 a {
     color: #aacdff;
+}
+
+.wrapper {
+    display: flex;
+    width: 100vw;
+    align-items: stretch;
 }
 
 p, .titulo-texto, dl {
@@ -64,15 +71,20 @@ nav {
 
     nav a {
         color: #fff;
-		
+        
     }
+
+.nav-link {
+    font-size: 1.5rem;
+    font-weight: 800;
+}
 
 .nav-item {
     padding: 0 0.5em 0 2em;
 }
 
 .outer-nav {
-    padding: 0 5vw;
+    /* padding: 0 5vw; */
 }
 
 /* Incremento */
@@ -84,8 +96,21 @@ nav {
     border-top: none;
 }
 
+.irregular {
+    min-height: 20vh;
+    padding: 2em;
+}
+
+.bg-red {
+    background-color: rgba(180, 50, 50, 0.9);
+}
+
+.bg-green {
+    background-color: rgba(80, 180, 115, 0.9);
+}
+
 .bg-translucido{
-	background-color: rgba(68, 106, 123, 0.7);
+    background-color: rgba(68, 106, 123, 0.7);
 }
 
 .center {
@@ -113,7 +138,7 @@ nav {
 }
 
 .navbar-toggler {
-    background-color: rgba(70, 110, 130, 0.5); 
+    background-color: rgba(0, 0, 0, 0.0); 
 }
 
 .fw-black {
@@ -121,8 +146,8 @@ nav {
 }
 
 .bar-logo {
-    max-width: 50vw;
-    max-height: 5vh;
+    max-width: 100%;
+    max-height: 7vh;
 }
 
 #page-body {
@@ -163,12 +188,17 @@ nav {
 
 section {
     padding: 2em 0;
-    background-color: #6E8B9A;
+    /* background-color: #6E8B9A; */
 }
 
     section:nth-of-type(even) {
-        background-color: #446A7B;
+        /* background-color: #446A7B; */
     }
+
+h1.motto, h2.motto, h3.motto {
+    font-style: italic;
+    text-align: right;
+}
 
 img.motto {
     max-width: 90vw;
@@ -180,11 +210,19 @@ img.motto {
     margin-bottom: 7.5vh;
 }
 
+.save-the-date {
+    position: absolute;
+    bottom: .5rem;
+    left: .5rem;
+    font-size: 2rem;
+    text-align: left;
+}
+
 #index-info {
     box-sizing: border-box;
     width: 100vw;
     padding: 1em 0;
-    position: absolute;
+    /* position: absolute; */
     bottom: 0;
 }
 
@@ -219,7 +257,7 @@ footer {
 
 /* Edição */
 .clock {
-	margin-top: 2em;
+    margin-top: 2em;
 }
 
 .tempo {
@@ -230,7 +268,7 @@ footer {
 /* Evita usar [tag].[classe], estilo tem que ser o mais genérico possível */
 /* 
 h4.secretário{
-	text-align:center;
+    text-align:center;
 } 
 */
 
@@ -246,13 +284,13 @@ h4.secretário{
 /* Secretariado */
 
 .nomeSecretario {
-	text-align:center;
+    text-align:center;
 }
 
 .cargoSecretario {
     text-align: right;
     padding: 0;
-	color:#D3D3D3;
+    color:#D3D3D3;
 }
 
 .un-frame {
@@ -269,8 +307,8 @@ h4.secretário{
 }
 
 .comite:hover{
-	background-color: #6E8B9A;
-	transition: 0.33s;
+    background-color: #6E8B9A;
+    transition: 0.33s;
 }
 
 .titulo-comite {
@@ -307,53 +345,53 @@ dd {
 
 /* Acrescentado */
 .comiteButton {
-	text-decoration: none;
-	color: #FFF;
+    text-decoration: none;
+    color: #FFF;
 }
 .comiteButton:hover {
-	text-decoration: none;
-	color: #FFF;
+    text-decoration: none;
+    color: #FFF;
 }    
 .comiteButton:visited {
-	text-decoration: none;
-	color:#FFF;
+    text-decoration: none;
+    color:#FFF;
 }  
 .comiteButton:active {
-	text-decoration: none;
-	color:#FFF;
+    text-decoration: none;
+    color:#FFF;
 }
 a:hover{
-	color:#00C7FF;
-	transition: 0.5s;
+    color:#00C7FF;
+    transition: 0.5s;
 }
 
 .page-title-area {
-	position: relative;
+    position: relative;
 }
 
 .trio{
-	padding:2vw 0 0 0;
+    padding:2vw 0 0 0;
 }
 .diretors-comitee{
-	margin-top: 2vw;
+    margin-top: 2vw;
 }
 
 .button-area {
-	margin-top: 2vh;
+    margin-top: 2vh;
 }
 .meet-button {
-	text-decoration: none;
-	padding: 2em;
-	border: 2px solid white;
-	background-color: #4199AF;
-	font-weight: bold;
-	font-size: 1.2em;
-	color: #FFF;
+    text-decoration: none;
+    padding: 2em;
+    border: 2px solid white;
+    background-color: #4199AF;
+    font-weight: bold;
+    font-size: 1.2em;
+    color: #FFF;
 }
 .meet-button:hover {
-	text-decoration: none;
-	background-color: #55C4E0;
-	color: #FFF;
+    text-decoration: none;
+    background-color: #55C4E0;
+    color: #FFF;
 }    
 
 .bold {

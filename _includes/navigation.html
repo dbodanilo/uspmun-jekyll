@@ -1,20 +1,28 @@
-<header>
-    <nav class="navbar navbar-expand-lg fixed-top bg-translucido outer-nav">
-        <a href="/index.html" class="navbar-brand">
-            <img class="img-fluid bar-logo" src="/assets/images/logo_branco-horizontal_mid.png" alt="Logo USPMUN">
-        </a>
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#main-navbar">
-            <i class="fas fa-bars"></i>
-        </button>
-
-        <div class="collapse navbar-collapse d-lg-flex justify-content-lg-end" id="main-navbar">
-            <ul class="navbar-nav mt-2">
-                {% for page in site.data.navigation %}
-                    <li class="nav-item">
-                        <a href="{{ page.link }}" class="nav-link">{{ page.name | upcase }}</a>
-                    </li>
-                {% endfor %}
-            </ul>
+<!-- fixed-top -->
+<nav class="navbar flex-column navbar-expand-lg outer-nav text-right p-0">
+    <div class="row w-100">
+        <div class="col-md-12 bg-red text-right">
+            <a href="/index.html" class="navbar-brand">
+                <img class="img-fluid bar-logo" src="/assets/images/logo_branco-horizontal_mid.png" alt="Logo USPMUN">
+            </a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#main-navbar">
+                <i class="fas fa-bars"></i>
+            </button>
         </div>
-    </nav>
-</header>
+    </div>
+
+    <div class="row w-100">
+        <div class="col-md-10 pl-0">
+            <div class="collapse navbar-collapse d-lg-flex bg-green justify-content-end w-100" id="main-navbar">
+                <ul class="navbar-nav flex-column mt-2">
+                    {% for page in site.data.navigation %}
+                    <li class="nav-item text-right">
+                        <!-- | upcase -->
+                        <a href="{{ page.link }}" class="nav-link">{{ page.name }}</a>
+                    </li>
+                    {% endfor %}
+                </ul>
+            </div>
+        </div>
+    </div>
+</nav>
