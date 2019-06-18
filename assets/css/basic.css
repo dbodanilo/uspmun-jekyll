@@ -21,10 +21,23 @@ table {
 }
 
 hr {
-    background-color: #FFF;
     display: block;
+    background: #FFFEFE;
+    border: none;
+    height: .1rem;
     margin: 0;
-    padding-top: 0.01vh;
+    margin-top: -.25rem;
+}
+
+hr.menu {
+    position: relative;
+    width: 30%;
+    right: -80%;
+    margin-bottom: 1rem;
+}
+
+hr.menu:last-child {
+    margin: 0;
 }
 
 /* TEXT */
@@ -96,9 +109,33 @@ nav {
     border-top: none;
 }
 
+img.irregular {
+    position: absolute;
+}
+
 .irregular {
-    min-height: 20vh;
+    overflow: visible;
+}
+
+.irregular-block {
     padding: 2em;
+    min-height: 20vh;
+}
+
+#forma-menu0 {
+    left: -15%;
+    top: -5%;
+    width: 115%;
+    height: 115%;
+    z-index: -10;
+}
+
+#forma-menu1 {
+    left: -15%;
+    top: -5%;
+    width: 115%;
+    height: 115%;
+    z-index: -11;
 }
 
 .bg-red {
@@ -171,7 +208,7 @@ nav {
 
 /* Sections */
 .primeiro {
-    margin-top: 35vh;
+    /* margin-top: 35vh; */
     min-height: 15vh;
 }
 
@@ -189,15 +226,18 @@ nav {
 section {
     padding: 2em 0;
     /* background-color: #6E8B9A; */
+    /* background-color: rgba(180, 50, 50, 0.9); */
 }
 
     section:nth-of-type(even) {
         /* background-color: #446A7B; */
+        /* background-color: rgba(80, 180, 115, 0.9); */
     }
 
-h1.motto, h2.motto, h3.motto {
+.motto {
     font-style: italic;
     text-align: right;
+    margin-bottom: 5rem;
 }
 
 img.motto {
