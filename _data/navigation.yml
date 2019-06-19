@@ -1,14 +1,21 @@
 - name: sobre
+  ascii: Sobre
   link: /sobre.html
 - name: edição
+  ascii: Edicao
   link: /edicao.html
 - name: comitês
+  ascii: Comites
   link: /comites.html
 - name: inscrições
+  ascii: Inscricao
   link: /inscricoes.html
 - name: BRICS
+  ascii: BRICS
   link: /404.html
 - name: parcerias
+  ascii: Parcerias
   link: /parcerias.html
 - name: FAQ
+  ascii: FAQ
   link: /duvidas.html
