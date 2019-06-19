@@ -35,7 +35,11 @@ hr.menu {
     position: relative;
     width: 40%;
     right: -80%;
-    margin-bottom: 1rem;
+    top: -1.25rem;
+}
+
+hr.menu-blank {
+    background: none;
 }
 
 hr.menu:last-child {
@@ -123,8 +127,32 @@ img.irregular {
     min-height: 20vh;
 }
 
-.forma-menu {
+/* img.menu-active {
+    position: relative;
+    z-index: -9;
+    top: 0%;
+    left: 0%;
+    width: 100%;
+    height: 100%;
 }
+#forma-menuSobre {
+    top: -40%;
+    left: +20%;
+    width: 70%;
+    height: 50%;
+}
+#forma-menuEdicao {
+    top: 25%;
+    left: 55%;
+    width: 60%;
+    height: 15%;
+}
+#forma-menuComites {}
+#forma-menuInscricao {}
+#forma-menuBRICS {}
+#forma-menuParcerias {}
+#forma-menuFAQ {} */
+
 #forma-menu0 {
     left: -15%;
     top: -10%;
@@ -140,12 +168,8 @@ img.irregular {
     z-index: -11;
 }
 
-.forma-index {
-    left: 0%;
-    top: 0%;
-    width: 100%;
-    height: 100%;
-}
+/* .forma-index {
+} */
 #forma-index1 {
     left: 0%;
     top: -10%;
@@ -173,6 +197,27 @@ img.irregular {
     width: 115%;
     height: 100%;
     z-index: -12
+}
+
+
+/* .forma-inscricao {
+    left: 0%;
+    top: 0%;
+    width: 100%;
+    height: 100%;
+} */
+#forma-inscricao1 {
+    left: 0%;
+    top: -20%;
+    width: 110%;
+    height: 150%;
+    z-index: -13;
+}
+#forma-inscricao2 {
+    left: 5%;
+    width: 75%;
+    height: 92%;
+    z-index: -12;
 }
 
 .bg-red {
@@ -243,6 +288,19 @@ img.irregular {
         color: #FFF;
     }
 
+#inscricao-text {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.25rem;
+    font-weight: 800;
+    text-decoration: none;
+    color: #fff;
+    position: absolute;
+    bottom: +10%;
+    right: 25%;
+}
+    #inscricao-text:hover {
+        background-color: rgba(80, 180, 115, 0.9);
+    }
 
 /* Sections */
 .primeiro {
@@ -264,16 +322,17 @@ img.irregular {
 section {
     padding: 2em 0;
     /* background-color: #6E8B9A; */
-    /* background-color: rgba(180, 50, 50, 0.9); */
+    background-color: rgba(180, 50, 50, 0.9);
 }
 
     section:nth-of-type(even) {
         /* background-color: #446A7B; */
-        /* background-color: rgba(80, 180, 115, 0.9); */
+        background-color: rgba(80, 180, 115, 0.9);
     }
 
 .motto-shape {
-    min-height: 35rem;
+    min-height: 30rem;
+    max-height: 35rem;
 }
 
 .motto {
