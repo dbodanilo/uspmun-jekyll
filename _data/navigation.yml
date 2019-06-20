@@ -10,9 +10,9 @@
 - name: inscrições
   ascii: Inscricao
   link: /inscricoes.html
-# - name: BRICS
-#   ascii: BRICS
-#   link: /404.html
+# - name: soon
+#   ascii: soon
+#   link: /soon.html
 - name: parcerias
   ascii: Parcerias
   link: /soon.html
