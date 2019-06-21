@@ -8,6 +8,8 @@ collections:
     output: true
   comites:
     output: true
+  comites-2018:
+    output: false
 
 defaults:
   - scope:
