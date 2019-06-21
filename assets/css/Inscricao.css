@@ -1,0 +1,79 @@
+hr.obs {
+    width: 20%;
+    margin: 0;
+    margin-bottom: 1rem;
+}
+
+#inscricao-row {
+    margin-bottom: 5rem;
+}
+
+#inscricao {
+    margin: 0.5em 2em;
+    padding: 0.25em 1em;
+    font-size: 1.25em;
+    background-color: #477082;
+    color: #FFF;
+    border: none;
+}
+    #inscricao:hover {
+        background-color: #849DAA;
+        color: #FFF;
+    }
+
+#inscricao-text {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.25rem;
+    font-weight: 800;
+    text-decoration: none;
+    color: #fff;
+    position: absolute;
+    bottom: +10%;
+    right: 25%;
+}
+    #inscricao-text:hover {
+        color: rgba(80, 180, 115, 0.9);
+    }
+
+.forma-inscricao {
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -14;
+}
+#forma-inscricao1 {
+    left: 0;
+    top: -20%;
+    width: 110%;
+    height: 150%;
+    z-index: -13;
+}
+#forma-inscricao2 {
+    left: 5%;
+    top: 0;
+    width: 75%;
+    height: 92%;
+    z-index: -12;
+}
+#forma-inscricao3 {
+    left: -1rem;
+    top: -2rem;
+    width: 105%;
+    height: 140%;
+    z-index: -13;
+}
+#forma-inscricao4 {
+    left: -1rem;
+    top: -4rem;
+    width: 105%;
+    height: 115%;
+    z-index: -12;
+}
+#forma-inscricao5 {
+    left: -1rem;
+    top: -3rem;
+    width: 105%;
+    height: 140%;
+    z-index: -13;
+}

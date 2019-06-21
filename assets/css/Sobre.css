@@ -1,0 +1,42 @@
+.forma-sobre {
+    left: 0rem;
+    width: 100%;
+    top: 0rem;
+    height: 100%;
+    z-index: -14;
+}
+#forma-sobre1 {
+    left: -2.5rem;
+    width: 115%;
+    top: -3rem;
+    height: 120%;
+    z-index: -13;
+}
+#forma-sobre2 {
+    left: -2rem;
+    width: 115%;
+    top: -1.5rem;
+    height: 105%;
+    z-index: -12;
+}
+#forma-sobre3 {
+    left: -2.5rem;
+    width: 115%;
+    top: -.5rem;
+    height: 105%;
+    z-index: -13;
+}
+#forma-sobre4 {
+    left: -2rem;
+    width: 115%;    
+    top: -.5rem;
+    height: 100%;
+    z-index: -12;
+}
+#forma-sobre5 {
+    left: -2.5rem;
+    width: 125%;
+    top: -3rem;
+    height: 105%;
+    z-index: -13;
+}
