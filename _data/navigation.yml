@@ -1,21 +1,27 @@
 - name: sobre
   ascii: Sobre
   link: /sobre.html
+
 - name: edição
   ascii: Edicao
   link: /soon.html
+
 # - name: comitês
 #   ascii: Comites
 #   link: /comites.html
+
 - name: inscrições
   ascii: Inscricao
   link: /inscricoes.html
+  
 # - name: soon
 #   ascii: soon
 #   link: /soon.html
+
 - name: parcerias
   ascii: Parcerias
-  link: /soon.html
+  link: /parcerias.html
+
 - name: FAQ
   ascii: FAQ
   link: /faq.html
