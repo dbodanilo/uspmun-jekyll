@@ -1,14 +1,55 @@
-- id: "usp"
-  nome: "USP"
-  link: "http://www5.usp.br/"
-  image_src: "/assets/images/patro-usp.png"
+# AMUN
+# FDSBCMUN
+# IBMRMUN
+# MUNFMU
+# PEMUN
+# SiEM
+# SiUR
+# SOOI
+# TEMAS
 
-- id: "le_monde"
-  nome: "Le Monde Diplomatique"
-  link: "https://diplomatique.org.br/"
-  image_src: "/assets/images/patro-le_monde.png"
+# - id: "amun"
+#   nome: "AMUN"
+#   link: "http://www.amun.org.br"
+#   image_src: "/assets/images/parceiro-amun_22nd-cropped.png"
 
-- id: "gremio_politecnico"
-  nome: "Grêmio Politécnico"
-  link: "http://www.gremiopolitecnico.com.br/"
-  image_src: "/assets/images/patro-gremio_politecnico.png"
+- id: "fdsbcmun"
+  nome: "FDSBCMUN"
+  link: "https://www.facebook.com/cadireitosbc/"
+  image_src: "/assets/images/parceiro-fdsbcmun.jpg"
+
+- id: "ibmrmun"
+  nome: "IBMRMUN"
+  link: "https://www.facebook.com/IBMRMUN/"
+  image_src: "/assets/images/parceiro-ibmrmun_verde.png"
+
+- id: "munfmu"
+  nome: "MUNFMU"
+  link: "https://pt-br.facebook.com/munfmu/"
+  image_src: "/assets/images/parceiro-munfmu.png"
+
+- id: "pemun"
+  nome: "PEMUN"
+  link: "https://www.pernambucomun.com.br/"
+  image_src: "/assets/images/parceiro-pemun_vermelho.png"
+
+- id: "siem"
+  nome: "SiEM"
+  link: "http://www.siemsp.com"
+  image_src: "/assets/images/parceiro-siem_2019.png"
+
+# - id: "siur"
+#   nome: "SiUR"
+#   link: "http://www.siurufrrj.com.br"
+#   image_src: "/assets/images/parceiro-siur_branco.png"
+
+- id: "sooi"
+  nome: "SOOI"
+  link: "http://www.sooiufabc.com/"
+  image_src: "/assets/images/parceiro-sooi.png"
+
+- id: "temas"
+  nome: "TEMAS"
+  link: "http://temasmg.com"
+  image_src: "/assets/images/parceiro-temas.png"
+  
