@@ -1,0 +1,85 @@
+.cronograma {
+    list-style: none;
+}
+.cronograma>li {
+    margin-left: -2rem;
+}
+
+#titulo-cronograma {
+    position: absolute;
+    bottom: 0;
+    right: 1rem;
+}
+
+.evento {
+    margin: 0.25em 0;
+    font-size: 5em;
+}
+.clock {
+    margin-top: 2em;
+}
+
+.tempo {
+    margin: 0 1em;
+    display: inline-block;
+}
+
+.green-block {
+}
+
+.forma-edicao {
+    left: 0;
+    width: 100%;
+    top: 0;
+    height: 100%;
+    z-index: -16;
+}
+#forma-edicao1a {
+    left: 0;
+    width: 190%;
+    top: -.5rem;
+    height: 100%;
+    z-index: -13;
+}
+#forma-edicao1b {
+    left: 0;
+    width: 100%;
+    top: 0;
+    height: 100%;
+    z-index: -13;
+}
+#forma-edicao2 {
+    left: 0;
+    width: 100%;
+    top: -1rem;
+    height: 125%;
+    z-index: -12;
+}
+#forma-edicao3 {
+    left: +1rem;
+    width: 110%;
+    top: -3.5rem;
+    height: 115%;
+    z-index: -14;
+}
+#forma-edicao4 {
+    left: +1rem;
+    width: 100%;
+    top: 0;
+    height: 100%;
+    z-index: -15;
+}
+#forma-edicao5 {
+    left: -.25rem;
+    width: 120%;
+    top: 0;
+    height: 100%;
+    z-index: -14;
+}
+#forma-edicao6 {
+    left: +1rem;
+    width: 92.5%;
+    top: +.5rem;
+    height: 105%;
+    z-index: -15;
+}
