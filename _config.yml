@@ -1,7 +1,9 @@
-name: My Jekyll Website
+name: USPMUN-Jekyll
 title: USPMUN
-
-url: https://uspmun.com.br
+description: Simulação de organismos internacionais da Universidade de São Paulo
+url: https://uspmun.com.br/
+logo: /apple-touch-icon.png
+lang: pt_BR
 
 collections:
   authors:
