@@ -2,7 +2,7 @@ name: USPMUN-Jekyll
 title: USPMUN
 description: Simulação de organismos internacionais da Universidade de São Paulo
 url: https://uspmun.com.br/
-logo: /apple-touch-icon.png
+logo: https://uspmun.com.br/apple-touch-icon.png
 lang: pt_BR
 
 collections:
