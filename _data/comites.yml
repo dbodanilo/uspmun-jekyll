@@ -1,127 +1,350 @@
-- id: "comite"
-  nome: "Comitê"
-  link: "/soon.html"
-  img_src: "/assets/images/simbolo-ce_branco.png"
-  url_guia_estudos: "/assets/documents/.pdf"
-  subtitulo:
-    - ""
-    - ""
-  resumo: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce 
-    imperdiet vitae ligula vestibulum dignissim. Aliquam erat volutpat. Mauris 
-    et mollis lorem. Morbi et blandit mi, non congue velit. Cras venenatis 
-    tellus a erat ultricies pharetra. Aliquam imperdiet arcu eget ornare 
-    volutpat. Morbi porttitor purus et sapien imperdiet eleifend. Phasellus 
-    aliquam vel est eu porta. Donec in pharetra turpis, et molestie dolor. 
-    Praesent condimentum in nisl venenatis venenatis. Donec iaculis arcu et 
-    erat euismod, a pellentesque quam porttitor. Nunc rutrum sit amet ipsum non 
-    euismod. "
+- id: "bid"
+  forma_src: "/assets/Formas/FormaComites/FormaComites1.png"
+  titulo: "Banco Islâmico de Desenvolvimento"
+  frases:
+  - bold: ""
+    regular: "Agenda Aberta sobre Projetos de Infraestrutura e Ciência, Tecnologia e 
+  Inovação (STI)"
+  resumo: ""
   paragrafos:
-    - ""
-    - ""
-    - ""
+  - ""
 
-- id: "comite"
-  nome: "Comitê"
-  link: "/soon.html"
-  img_src: "/assets/images/simbolo-ce_branco.png"
-  url_guia_estudos: "/assets/documents/.pdf"
-  subtitulo:
-    - ""
-    - ""
-  resumo: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce 
-    imperdiet vitae ligula vestibulum dignissim. Aliquam erat volutpat. Mauris 
-    et mollis lorem. Morbi et blandit mi, non congue velit. Cras venenatis 
-    tellus a erat ultricies pharetra. Aliquam imperdiet arcu eget ornare 
-    volutpat. Morbi porttitor purus et sapien imperdiet eleifend. Phasellus 
-    aliquam vel est eu porta. Donec in pharetra turpis, et molestie dolor. 
-    Praesent condimentum in nisl venenatis venenatis. Donec iaculis arcu et 
-    erat euismod, a pellentesque quam porttitor. Nunc rutrum sit amet ipsum non 
-    euismod. "
+- id: "brics"
+  forma_src: "/assets/Formas/FormaComites/FormaComites2.png"
+  titulo: "BRICS"
+  frases:
+  - bold: "BRICS Leaders Meeting: "
+    regular: "Partnership for the strengthening of science, technology and inovation"
+
+  - bold: "BRICS National Security Advisors Meeting: "
+    regular: "Means to combat corruption and money laundering"
+
+  - bold: "Meeting of Finance Ministers and Central Bank Governors: "
+    regular: "Partnership for sustainable development"
+
+  - bold: "BRICS Health Ministers Meeting: "
+    regular: "The development of BRICS HIV research network"
+  resumo: ""
   paragrafos:
-    - ""
-    - ""
-    - ""
+  - ""
 
-- id: "comite"
-  nome: "Comitê"
-  link: "/soon.html"
-  img_src: "/assets/images/simbolo-ce_branco.png"
-  url_guia_estudos: "/assets/documents/.pdf"
-  subtitulo:
-    - ""
-    - ""
-  resumo: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce 
-    imperdiet vitae ligula vestibulum dignissim. Aliquam erat volutpat. Mauris 
-    et mollis lorem. Morbi et blandit mi, non congue velit. Cras venenatis 
-    tellus a erat ultricies pharetra. Aliquam imperdiet arcu eget ornare 
-    volutpat. Morbi porttitor purus et sapien imperdiet eleifend. Phasellus 
-    aliquam vel est eu porta. Donec in pharetra turpis, et molestie dolor. 
-    Praesent condimentum in nisl venenatis venenatis. Donec iaculis arcu et 
-    erat euismod, a pellentesque quam porttitor. Nunc rutrum sit amet ipsum non 
-    euismod."
+- id: "ciprpc"
+  forma_src: "/assets/Formas/FormaComites/FormaComites3.png"
+  titulo: "Comitê Intergovernamental para a Promoção do Retorno da Propriedade 
+  Cultural (CIPRPC/UNESCO)"
+  frases:
+  - bold: ""
+    regular: "Repatriação de obras africanas"
 
-- id: "comite"
-  nome: "Comitê"
-  link: "/soon.html"
-  img_src: "/assets/images/simbolo-ce_branco.png"
-  url_guia_estudos: "/assets/documents/.pdf"
-  subtitulo:
-    - ""
-    - ""
-  resumo: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce 
-    imperdiet vitae ligula vestibulum dignissim. Aliquam erat volutpat. Mauris 
-    et mollis lorem. Morbi et blandit mi, non congue velit. Cras venenatis 
-    tellus a erat ultricies pharetra. Aliquam imperdiet arcu eget ornare 
-    volutpat. Morbi porttitor purus et sapien imperdiet eleifend. Phasellus 
-    aliquam vel est eu porta. Donec in pharetra turpis, et molestie dolor. 
-    Praesent condimentum in nisl venenatis venenatis. Donec iaculis arcu et 
-    erat euismod, a pellentesque quam porttitor. Nunc rutrum sit amet ipsum non 
-    euismod."
+  # - "Direito à memória, direito à verdade"
+  
+  # - "Cultura é identidade: justiça para a identidade africana!"
+  resumo: "Na sessão que simularemos propomos discutir parte do problema dos 
+    bens étnico culturais apropriados por países europeus durante o processo de 
+    colonização do continente africano no século XIX, os quais são mantidos em 
+    museus de caráter etnográfico sob a égide de garantia da proteção."
   paragrafos:
-    - ""
-    - ""
-    - ""
+    - "Criado em 1978 o CIPRPC - Comitê Intergovernamental para Promoção do 
+    Retorno da  Propriedade Cultural é um sub-órgão da UNESCO - Organização das 
+    Nações Unidas para a Educação, Ciência e Cultura, cujo objetivo é mediar 
+    devoluções e trocas de artefatos culturais apropriados de seus povos de 
+    origem. Na sessão que simularemos propomos discutir parte do problema dos 
+    bens étnico culturais apropriados por países europeus durante o processo de 
+    colonização do continente africano no século XIX, os quais são mantidos em 
+    museus de caráter etnográfico sob a égide de garantia da proteção."
+    - "A partir daí buscaremos possibilidades de negociação para repatriação 
+    tendo em vista a construção de novos laços intencionais pós coloniais, 
+    abordando entre as negociações tensões econômicas, históricas, políticas, 
+    sociais e culturais entre as partes negociantes, as quais serão tanto países 
+    colonizados quanto seus respectivos colonizadores."
+    - "Por fim, queremos traçar panoramas políticos diplomáticos contra 
+    paradigmáticos, buscando mediar os conflitos das partes e tentando criar 
+    panoramas de cooperação entre instituições africanas e européias. 
+    Tematizando ainda mudanças de perspectiva nas relações internacionais pré 
+    estabelecidas entre os continentes, descolonização e efeitos da colonização, 
+    reparação histórica e justiça reparativa, entendendo sempre os papéis 
+    contraditórios e conflitantes que esperamos que sejam cumpridos pelos atores 
+    pensando na perspectiva conflituosa pós ocidental."
 
-- id: "comite"
-  nome: "Comitê"
-  link: "/soon.html"
-  img_src: "/assets/images/simbolo-ce_branco.png"
-  url_guia_estudos: "/assets/documents/.pdf"
-  subtitulo:
-    - ""
-    - ""
-  resumo: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce 
-    imperdiet vitae ligula vestibulum dignissim. Aliquam erat volutpat. Mauris 
-    et mollis lorem. Morbi et blandit mi, non congue velit. Cras venenatis 
-    tellus a erat ultricies pharetra. Aliquam imperdiet arcu eget ornare 
-    volutpat. Morbi porttitor purus et sapien imperdiet eleifend. Phasellus 
-    aliquam vel est eu porta. Donec in pharetra turpis, et molestie dolor. 
-    Praesent condimentum in nisl venenatis venenatis. Donec iaculis arcu et 
-    erat euismod, a pellentesque quam porttitor. Nunc rutrum sit amet ipsum non 
-    euismod."
-  paragrafos:
-    - ""
-    - ""
-    - ""
+- id: "coi"
+  forma_src: "/assets/Formas/FormaComites/FormaComites4.png"
+  titulo: "Comissão Oceanográfica Internacional (COI/UNESCO)"
+  frases:
+  - bold: ""
+    regular: "As consequências dos impactos antrópicos nos oceanos: Poluição e Sobrepesca"
 
-- id: "comite"
-  nome: "Comitê"
-  link: "/soon.html"
-  img_src: "/assets/images/simbolo-ce_branco.png"
-  url_guia_estudos: "/assets/documents/.pdf"
-  subtitulo:
-    - ""
-    - ""
-  resumo: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce 
-    imperdiet vitae ligula vestibulum dignissim. Aliquam erat volutpat. Mauris 
-    et mollis lorem. Morbi et blandit mi, non congue velit. Cras venenatis 
-    tellus a erat ultricies pharetra. Aliquam imperdiet arcu eget ornare 
-    volutpat. Morbi porttitor purus et sapien imperdiet eleifend. Phasellus 
-    aliquam vel est eu porta. Donec in pharetra turpis, et molestie dolor. 
-    Praesent condimentum in nisl venenatis venenatis. Donec iaculis arcu et 
-    erat euismod, a pellentesque quam porttitor. Nunc rutrum sit amet ipsum non 
-    euismod. "
+  # - "Em 2050 haverá mais plástico do que peixes nos oceanos de todo o mundo."
+  
+  # - "Sabia que cerca de 40% de tudo que é pescado mundialmente é descartado? 
+  # Sendo grande parte animais capturados acidentalmente como tubarões, 
+  # golfinhos, aves e tartarugas."
+  resumo: "Sendo o único órgão competente para ciência 
+    marinha dentro da ONU. O objetivo da Comissão é promover a cooperação 
+    internacional e coordenar os programas de pesquisa, serviços, sistemas de 
+    observação, mitigação de impacto e capacitação, com a finalidade de aprender 
+    mais sobre os recursos naturais das zonas costeiras e oceânicas e fazer 
+    usufruto de maneira eficiente destes."
   paragrafos:
-    - ""
-    - ""
-    - ""
+    - "Comissão Internacional Oceanográfica foi criada em 1960 como um órgão com 
+    autônomo dentro da UNESCO. Sendo o único órgão competente para ciência 
+    marinha dentro da ONU. O objetivo da Comissão é promover a cooperação 
+    internacional e coordenar os programas de pesquisa, serviços, sistemas de 
+    observação, mitigação de impacto e capacitação, com a finalidade de aprender 
+    mais sobre os recursos naturais das zonas costeiras e oceânicas e fazer 
+    usufruto de maneira eficiente destes."
+    - "Estes conhecimentos são aplicados para promover melhorias na gestão dos 
+    recursos marinhos e na proteção destes ambientes nos processos de decisão de 
+    seus 148 Estados Membros. Promovendo, assim, o desenvolvimento sustentável 
+    do meio marinho, principalmente para países em desenvolvimento."
+
+- id: "csta"
+  forma_src: "/assets/Formas/FormaComites/FormaComites5.png"
+  titulo: "Comitê sobre Saúde, Trabalho e Assuntos Sociais da União Africana"
+  frases:
+  - bold: ""
+    regular: "Implementacao das metas de saúde da Agenda 2063"
+
+  - bold: "Tópico A: "
+    regular: "A saúde da Mulher Africana: Mutilação da Genitália Feminina, Conjuntura 
+  Materna e Neonatal"
+
+  - bold: "Tópico B: "
+    regular: "Uso de drogas e substâncias psicotrópicas no continente africano"
+  
+  # - "Efetivação da Agenda 2063: Estratégias para a implementação de políticas 
+  # públicas respectivas à saúde do cidadão africano"
+
+  # - "O continente africano e a Agenda 2063 na ordem global do século XXI: 
+  # Consciência originária de problemas históricos ou ensaios de autossuficiência 
+  # regional?"
+  
+  # - "Reafirmação e autonomia: caminhos e descaminhos da solidariedade africana 
+  # em uma Agenda Coletivizada"
+
+  # - "Reflexos originários, identitários e perspectivas vindouras: A Agenda 2063 
+  # e suas reverberações regionais"
+  resumo: "O comitê dispõe como enfoque, a aplicação prática das metas para a saúde 
+  definidas pela Agenda 2063 da União Africana. Em um contexto de uma África 
+  que encontra-se em um processo de ascensão econômica e política na conjuntura 
+  multilateral internacional, é de extrema importância que crie-se políticas 
+  públicas em âmbitos sociais para que essa projeção no cenário global, de 
+  maneira similar reverbere para a sociedade em sua amplitude. Sob essa mesma 
+  linha de raciocínio, acredita-se que uma discussão que possua como foco e 
+  como propulsor o próprio Estado e que aplique seus próprios mecanismos 
+  supranacionais como meios para alcançar o consenso será de extrema 
+  significância para o amplo desenvolvimento. O organismo e seus aparatos 
+  institucionais, originaram-se no ano de 2002 sob a concepção de promover 
+  unicidade e solidariedade africana, em oposição à apartheids e colonizações."
+  paragrafos:
+  - "O comitê dispõe como enfoque, a aplicação prática das metas para a saúde 
+  definidas pela Agenda 2063 da União Africana. Em um contexto de uma África 
+  que encontra-se em um processo de ascensão econômica e política na conjuntura 
+  multilateral internacional, é de extrema importância que crie-se políticas 
+  públicas em âmbitos sociais para que essa projeção no cenário global, de 
+  maneira similar reverbere para a sociedade em sua amplitude. Sob essa mesma 
+  linha de raciocínio, acredita-se que uma discussão que possua como foco e 
+  como propulsor o próprio Estado e que aplique seus próprios mecanismos 
+  supranacionais como meios para alcançar o consenso será de extrema 
+  significância para o amplo desenvolvimento. O organismo e seus aparatos 
+  institucionais, originaram-se no ano de 2002 sob a concepção de promover 
+  unicidade e solidariedade africana, em oposição à apartheids e colonizações."
+  - "Sob esse escopo, o “Comitê sobre Saúde, Trabalho e Assuntos Sociais da 
+  União Africana” objetiva elencar e fomentar uma discussão quanto a mutilação 
+  da genitália feminina e a conjuntura neonatal da mulher pertencente à região, 
+  assim como as problemáticas encaradas logo após seu período de gestação, no 
+  que concerne ambos os domínios do auxílio ginecológico, além de expor os 
+  desafios hodiernos acerca da assistência pediátrica e amparo à criança e ao 
+  adolescente em seus diversos aspectos, sejam eles de cunho preventivo ou 
+  curativo. Em razão disso, as agendas de negociação encontram-se subdivididas 
+  em eixos coesos de abordagem, para a exposição de fatores de caráter 
+  biomédicos, socioculturais e econômicos, com o propósito de repensar as 
+  circunstâncias dessas mulheres e de seus descendentes no continente africano 
+  e as reverberações auferidas no hemisfério."
+  - "Posteriormente às discussões referentes à saúde feminina, elenca-se a 
+  crescente demanda pelas drogas e substâncias psicotrópicas como fruto das 
+  problemáticas pautadas acima, como por exemplo, o uso destas para fins 
+  medicamentosos de práticas médicas realizadas sem as devidas condições 
+  sanitárias, dessarte, este comitê similarmente visa discutir sobre o uso 
+  exacerbado por crianças e o controle do tráfico dessas substâncias no 
+  continente africano; assunto que confere sobreavisos ao Sistema Internacional 
+  nas últimas décadas devido a velocidade que suas dimensões adquirem força. 
+  Assim sendo, o desenrolar das negociações objetiva elencar um cenário pouco 
+  vislumbrado na região, ao mesmo que explanar outras conjunturas visíveis mas 
+  ausentes de soluções imediatistas, pensando a localidade com o seu devido 
+  protagonismo e concedendo às suas demandas maiores considerações."
+
+- id: "hong-kong-handover"
+  forma_src: "/assets/Formas/FormaComites/FormaComites6.png"
+  titulo: "Hong Kong Handover"
+  frases:
+  - bold: ""
+    regular: "Redefining Sovereignty"
+  resumo: ""
+  paragrafos:
+  - ""
+
+- id: "idea"
+  forma_src: "/assets/Formas/FormaComites/FormaComites7.png"
+  titulo: "International Institute for Democracy and Electoral Assistance"
+  frases:
+  - bold: ""
+    regular: "Western Democracies Backslides: the projection of new structures of power 
+  in the world"
+  
+  # - "Are Western Democracies really dying?"
+  # - "Will China overpower the USA?"
+  resumo: "Trump as the president of the United States of America, United Kingdom claiming the Brexit, Marie Le Pene ascending in France, Jair Bolsonaro as the president of Brazil, Neo-Nazi groups emerging in Germany. Are the Western Democracies falling? Will they fall apart? Or will a new structure of power emerge in the world?"
+  paragrafos:
+  - "Trump as the president of the United States of America, United Kingdom claiming the Brexit, Marie Le Pene ascending in France, Jair Bolsonaro as the president of Brazil, Neo-Nazi groups emerging in Germany. Are the Western Democracies falling? Will they fall apart? Or will a new structure of power emerge in the world?"
+  - "The international Institute for Democracy and Electoral Assistance, IDEA, as an International Non-Governmental Organization has the purpose to assist the implementation and maintenance of democracies all around the globe. Currently, the Institution promote conferences and finances scientific research to develop mechanisms and tools in favor of the forthcoming democracies, as the consolidated ones."
+  - "Owing to Democracies Backsliding phenomenon, how the democratic countries can cooperate to elevate theirs democratic status? Taking into account the new poles of power in the world, such as China, India and even Russia."
+
+- id: "imf"
+  forma_src: "/assets/Formas/FormaComites/FormaComites8.png"
+  titulo: "International Monetary Fund"
+  frases:
+  - bold: ""
+    regular: "The Latin American Adjustment (Washington Consensus - 1989)"
+  resumo: ""
+  paragrafos:
+  - ""
+
+- id: "imprensa"
+  forma_src: "/assets/Formas/FormaComites/FormaComites9.png"
+  titulo: "Comitê de Imprensa"
+  frases:
+  # - "Imprensa não é comitê. É Babilônia em chamas."
+  
+  # - "Se nenhum jornalista foi criticado, censurado, preso, torturado, exilado 
+  # ou morto, o comitê de imprensa falhou na sua missão."
+  resumo: "O comitê de imprensa é responsável pela veiculação de 
+    notícias. Elas podem discutir assuntos concernentes à simulação como um todo, 
+    como comunicados gerais, atividades conjuntas, eventos que afetem mais de um 
+    comitê, registros fotográficos e em vídeo para as redes sociais, etc.. A 
+    cobertura pode ser feita com com o seu próprio nome, e o veículo é o da 
+    própria simulação. Ou podem dizer respeito a um único comitê. Neste caso, os 
+    jornalistas devem produzir textos sobre o que acontece durante as sessões, 
+    decisões do comitê, intervenções, crises… Enfim, tudo o que estiver 
+    relacionado às discussões."
+  paragrafos:
+  - "Em uma simulação, o comitê de imprensa é responsável pela veiculação de 
+  notícias. Elas podem discutir assuntos concernentes à simulação como um todo, 
+  como comunicados gerais, atividades conjuntas, eventos que afetem mais de um 
+  comitê, registros fotográficos e em vídeo para as redes sociais, etc.. A 
+  cobertura pode ser feita com com o seu próprio nome, e o veículo é o da 
+  própria simulação. Ou podem dizer respeito a um único comitê. Neste caso, os 
+  jornalistas devem produzir textos sobre o que acontece durante as sessões, 
+  decisões do comitê, intervenções, crises… Enfim, tudo o que estiver 
+  relacionado às discussões. Neste caso, os veículos de comunicação são 
+  definidos pelos diretores e diretoras de cada comitê, e têm uma linha 
+  editorial bem definida."
+  - "É importante que os delegados e delegadas de imprensa entendam a 
+  importância de seu papel. Não estamos aqui só para contar para as outras 
+  pessoas aquilo que elas já viram acontecer. Não. Estamos aqui para chamar a 
+  atenção para fatos importantes, denunciar condutas e injustiças. A imprensa 
+  é um importante instrumento de intervenção, e tem o poder de transformar 
+  drasticamente o rumo dos debates. Cada texto deve ser escrito com zelo, 
+  atenção e uma boa dose de vontade de incomodar. A imprensa não funciona se 
+  puser panos quentes e agradar quem está no poder."
+
+- id: "onu-mulheres"
+  forma_src: "/assets/Formas/FormaComites/FormaComites10.png"
+  titulo: "Entidade das Nações Unidas para a Igualdade de Gênero e o 
+  Empoderamento das Mulheres (ONUMulheres)"
+  frases:
+  - bold: ""
+    regular: "O Peso Econômico das Mulheres em Sociedades Emergentes"
+
+  - bold: "Tópico A: "
+    regular: "Mulheres Rurais e Indígenas"
+  
+  - bold: "Tópico B: "
+    regular: "Mulheres em Situação de Rua"
+
+  # - "\"Oi. Eu sou o mundo daqui a 6 anos, e eu tenho 28 trilhões de patrimônio acumulado. Quer saber como eu fiz?\". "
+  # - "Já pensou que você ignora a pessoa que produz mais de 70% da sua comida?"
+  resumo: "A Comissão sobre a Situação das Mulheres (CSW) tratará do tema “o 
+    peso econômico das mulheres nos países emergentes”, com abordagens acerca 
+    das mulheres rurais, indígenas e em situação de rua. Em relação às primeiras, 
+    propõe-se uma discussão quanto à sua situação de trabalho e o seu acesso a 
+    terras e recursos produtivos em cada um dos países representados no comitê. 
+    Quanto às indígenas, pretende-se discutir sobre o seu papel na preservação 
+    da biodiversidade, além da sua função econômica em tribos na América e na 
+    África e, se tratando daquelas em situação de rua, propõe-se uma discussão 
+    relativa ao trabalho informal muitas vezes realizado por estas e às 
+    oportunidades de educação e de inclusão no mercado de trabalho para essas 
+    figuras. No âmbito geral, objetiva-se um debate sobre a importância das 
+    mulheres para o desenvolvimento econômico e as possíveis medidas de auxílio 
+    e de empoderamento econômico feminino."
+  paragrafos:
+    - "Na nova configuração geopolítica multipolar, países emergentes têm 
+    ganhado uma maior representatividade nos processos produtivos e comerciais 
+    e nas decisões políticas internacionais. Entretanto, nestas nações, as 
+    mulheres muitas vezes ainda percebem um retrocesso quanto à garantia de seus 
+    direitos, apesar de representarem um grande potencial econômico. Assim, o 
+    comitê da Comissão sobre a Situação das Mulheres (CSW) tratará do tema “o 
+    peso econômico das mulheres nos países emergentes”, com abordagens acerca 
+    das mulheres rurais, indígenas e em situação de rua. Em relação às primeiras, 
+    propõe-se uma discussão quanto à sua situação de trabalho e o seu acesso a 
+    terras e recursos produtivos em cada um dos países representados no comitê. 
+    Quanto às indígenas, pretende-se discutir sobre o seu papel na preservação 
+    da biodiversidade, além da sua função econômica em tribos na América e na 
+    África e, se tratando daquelas em situação de rua, propõe-se uma discussão 
+    relativa ao trabalho informal muitas vezes realizado por estas e às 
+    oportunidades de educação e de inclusão no mercado de trabalho para essas 
+    figuras. No âmbito geral, objetiva-se um debate sobre a importância das 
+    mulheres para o desenvolvimento econômico e as possíveis medidas de auxílio 
+    e de empoderamento econômico feminino."
+    - "Quanto ao órgão simulado, a CSW é a principal instância intergovernamental 
+    global dedicada exclusivamente à promoção da igualdade de gênero e ao 
+    empoderamento das mulheres. Criada em 1947, é composta por 45 países-membros 
+    eleitos por quatro anos pelo Conselho Econômico e Social (ECOSOC), de acordo 
+    com a distribuição regional (13 membros da África, 11 da Ásia, 9 da América 
+    Latina e do Caribe, 8 da Europa Ocidental e outros Estados e 4 da Europa 
+    Oriental). Como comissão funcional do ECOSOC, a CSW tem a função de preparar 
+    relatórios e recomendações ao Conselho sobre a promoção dos direitos das 
+    mulheres nas áreas política, econômica, civil, social e educacional. Assim, 
+    encarrega-se de fazer diversas pesquisas em diferentes nações do globo, para 
+    de fato moldar a realidade das mulheres e, frente aos principais problemas, 
+    motivar a promoção de mudanças."
+
+- id: "toeo"
+  forma_src: "/assets/Formas/FormaComites/FormaComites11.png"
+  titulo: "Teatro de Operações do Extremo Oriente"
+  frases:
+  - bold: ""
+    regular: "A Guerra Russo-Japonesa (1904)"
+  resumo: "O Teatro de Operações do Extremo Oriente abordará o conflito empreendido 
+  pelo Império do Japão contra a Rússia czarista, pelo controle da região 
+  onde se localizam atualmente a porção nordeste da China e o sul da Península 
+  Coreana , ocorrido nos anos de 1904 e 1905, que ao fim consolidou os 
+  japoneses à ordem de atores relevantes no cenário geopolítico mundial, assim 
+  como serviu como um dos momentos precursores para a Revolução de 1917 na 
+  Rússia."
+  paragrafos:
+  - "O Teatro de Operações do Extremo Oriente abordará o conflito empreendido 
+  pelo Império do Japão contra a Rússia czarista, pelo controle da região 
+  onde se localizam atualmente a porção nordeste da China e o sul da Península 
+  Coreana , ocorrido nos anos de 1904 e 1905, que ao fim consolidou os 
+  japoneses à ordem de atores relevantes no cenário geopolítico mundial, assim 
+  como serviu como um dos momentos precursores para a Revolução de 1917 na 
+  Rússia."
+  - "Tal embate colocou frente a frente duas potências distintas em inúmeras 
+  variáveis mas que buscavam aumentar sua zona de influência pelo leste 
+  asiático. Alguns especialistas denotam a Guerra Russo Japonesa como sendo 
+  uma espécie de “ensaio” para o que viria a ser a Grande Guerra, dez anos 
+  mais tarde."
+  - "O Teatro de Operações é operacionalizado a fim de promover um maior 
+  entendimento aos seus participantes em questões políticas e militares, 
+  promovendo os delegados à representações de cargos de vital importância para 
+  o andamento do conflito. Não há moderação ativa e todos possuírão 
+  especificidades quanto ao papel desempenhado dentro de cada gabinete."
+
+# - id: ""
+#   forma_src: "/assets/Formas/FormaComites/FormaComites9"
+#   titulo: ""
+#   frases:
+#   - ""
+#   resumo: ""
+#   paragrafos:
+#   - ""
