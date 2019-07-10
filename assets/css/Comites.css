@@ -1,0 +1,112 @@
+/* Comitês */
+.comite {
+    padding: 1em;
+    margin-bottom: 3vh;
+}
+
+.comite:hover{
+    /* background-color: #6E8B9A; */
+    transition: 0.33s;
+}
+
+.titulo-comite {
+    padding-top: 1em;
+    padding-bottom: 0.5em;
+}
+
+.comite-img {
+    max-height: 50vh;
+}
+
+.comite-descricao {
+    max-width: 50vh;
+    text-align: right;
+}
+
+.diretors-comitee{
+    padding: 2rem;
+}
+
+/* Acrescentado */
+.comiteButton {
+    text-decoration: none;
+    color: #FFF;
+}
+.comiteButton:hover {
+    text-decoration: none;
+    color: #FFF;
+}    
+.comiteButton:visited {
+    text-decoration: none;
+    color:#FFF;
+}  
+.comiteButton:active {
+    text-decoration: none;
+    color:#FFF;
+}
+
+.forma-comite {
+    left: 0;
+    width: 100%;
+    top: 0;
+    height: 100%;
+    z-index: -14;
+}
+#forma-bid {
+    width: 115%;
+}
+#forma-brics {
+    width: 110%;
+    top: -1.5rem;
+    height: 105%;
+}
+#forma-ciprpc {
+    left: -3.5rem;
+    width: 135%;
+    top: -2rem;
+    height: 105%;
+    z-index: -12;
+}
+/* #forma-coi {
+} */
+#forma-csta {
+    width: 105%;
+    top: -3rem;
+    height: 110%;
+}
+#forma-hong-kong-handover {
+    left: -2rem;
+    width: 115%;
+    top: -1.5rem;
+    height: 105%;
+}
+#forma-idea {
+    left: -1.5rem;
+    width: 105%;
+    top: -2.5rem;
+    height: 110%;
+}
+#forma-imf {
+    left: -2.5rem;
+    width: 125%;
+    top: -3rem;
+    height: 115%;
+}
+#forma-imprensa {
+    left: -3rem;
+    width: 130%;
+    top: -2rem;
+    height: 110%;
+}
+#forma-onu-mulheres {
+    left: -2rem;
+    width: 120%;
+    top: -3rem;
+    height: 105%;
+}
+#forma-toeo {
+    left: -2.5rem;
+    width: 115%;
+    top: -5rem;
+    height: 115%;
+}
