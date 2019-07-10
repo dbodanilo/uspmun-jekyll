@@ -16,16 +16,6 @@ collections:
 defaults:
   - scope:
       path: ""
-      type: "authors"
-    values:
-      layout: "author"
-  - scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
-  - scope:
-      path: ""
       type: "comites"
     values:
       layout: "comite"
@@ -33,3 +23,13 @@ defaults:
       path: ""
     values:
       layout: "title"
+  # - scope:
+  #     path: ""
+  #     type: "authors"
+  #   values:
+  #     layout: "author"
+  # - scope:
+  #     path: ""
+  #     type: "posts"
+  #   values:
+  #     layout: "post"
