@@ -1,19 +1,27 @@
 ---
 title: Comitês
+ascii: Comites
+canonical_url: https://uspmun.com.br/comites.html
 ---
 
-<section>
-    <div class="container">
-        <div class="row">
-            {% for comite in site.data.comites %}
-                <div class="col-md-6 comite">
-                    <a href="{{ comite.link }}" class="comiteButton">
-                        <img class="img-fluid center comite-img" src="{{ comite.img_src }}" alt="comitee banner">
-                        <h3 class="titulo-comite">{{ comite.nome }}</h3>
-                        <p class="comite-descricao">{{ comite.resumo }}</p>
-                    </a>
-                </div>
+<div class="row">
+    {% for comite in site.data.comites %}
+
+    <div class="col-md-6 comite irregular irregular-block">
+        <img id="forma-{{ comite.id }}" class="irregular forma-comite" src="{{ comite.forma_src }}">
+        <a href="/comites/{{ comite.id }}.html" class="comiteButton">
+            <img class="img-fluid center comite-img" src="/assets/images/Comites/{{ comite.id }}.png" alt="banner {{ comite.titulo }}">
+            <h2 class="titulo-comite">{{ comite.titulo }}</h3>
+            {% for frase in comite.frases %}
+
+            <p class="comite-descricao">
+                <strong>{{ frase.bold }}</strong> 
+                {{ frase.regular }}
+            </p>
+            
             {% endfor %}
-        </div>
+        </a>
     </div>
-</section>
+
+    {% endfor %}
+</div>
