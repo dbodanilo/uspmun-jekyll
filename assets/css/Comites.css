@@ -9,13 +9,13 @@
     transition: 0.33s;
 }
 
-.titulo-comite {
-    padding-top: 1em;
-    padding-bottom: 0.5em;
-}
-
 .comite-img {
     max-height: 50vh;
+    max-width: 75vw;
+}
+
+.comite-main_img {
+    height: 10rem;
 }
 
 .comite-descricao {
@@ -23,11 +23,35 @@
     text-align: right;
 }
 
-.diretors-comitee{
-    padding: 2rem;
+.comite-titulo {
+    font-weight: 600;
+    padding-top: 1rem;
+    padding-bottom: 0.5rem;
 }
 
-/* Acrescentado */
+.comite-frase {
+    font-size: 1.5rem;
+    line-height: 1.25em;
+    font-weight: normal;
+    font-style: italic;
+    text-align: center;
+}
+
+.comite-columns {
+    column-count: 2;
+}
+
+.comite-paragrafo {
+    text-align: justify;
+    text-align-last: right;
+}
+
+.diretor-nome {
+    font-weight: 600;
+    text-align: left;
+    font-style: italic
+}
+
 .comiteButton {
     text-decoration: none;
     color: #FFF;
@@ -109,4 +133,39 @@
     width: 115%;
     top: -5rem;
     height: 115%;
+}
+
+#forma-comite1 {
+    left: -2rem;
+    width: 105%;
+    top: -4rem;
+    height: 110%;
+}
+#forma-comite2 {
+    left: -3rem;
+    width: 120%;
+    top: -2rem;
+    height: 120%;
+}
+#forma-comite3 {
+    left: -2rem;
+    width: 130%;
+    top: -1rem;
+    height: 105%;
+}
+#forma-comite4 {
+    left: -3.5rem;
+    width: 125%;
+    top: -3rem;
+    height: 120%;
+}
+#forma-comite5 {
+    left: -3.5rem;
+    width: 120%;
+    top: -2rem;
+    height: 120%;
+}
+#forma-comite6 {
+    left: -2rem;
+    width: 120%;
 }

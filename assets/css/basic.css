@@ -9,7 +9,7 @@ vermelho:
 */
 
 
-@import url('https://fonts.googleapis.com/css?family=Montserrat:400,800|Roboto');
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,600,800|Roboto');
 
 body {
     font-family: 'Roboto', sans-serif;
@@ -115,13 +115,16 @@ nav {
     padding: 0 0.5em 0 2em;
 }
 
-/* Incremento */
 .d-none {
     display: none;
 }
 
 .bt-none {
     border-top: none;
+}
+
+.text-bold {
+    font-weight: 600;
 }
 
 img.irregular {
@@ -279,11 +282,11 @@ footer {
 
 /* Secretariado */
 
-.nomeSecretario {
+.secretario-nome {
     text-align:center;
 }
 
-.cargoSecretario {
+.secretario-cargo {
     text-align: right;
     padding: 0;
     color:#D3D3D3;
