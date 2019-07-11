@@ -9,7 +9,7 @@ collections:
   authors:
     output: true
   comites:
-    output: false
+    output: true
   comites-2018:
     output: false
 

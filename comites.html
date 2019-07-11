@@ -9,9 +9,9 @@ canonical_url: https://uspmun.com.br/comites.html
 
     <div class="col-md-6 comite irregular irregular-block">
         <img id="forma-{{ comite.id }}" class="irregular forma-comite" src="{{ comite.forma_src }}">
-        <a href="/soon.html" class="comiteButton">
+        <a href="/comites/{{ comite.id }}.html" class="comiteButton">
             <img class="img-fluid center comite-img" src="/assets/images/Comites/{{ comite.id }}.png" alt="banner {{ comite.titulo }}">
-            <h2 class="titulo-comite">{{ comite.titulo }}</h3>
+            <h2 class="comite-titulo">{{ comite.titulo }}</h3>
             {% for frase in comite.frases %}
 
             <p class="comite-descricao">
