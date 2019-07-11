@@ -4,109 +4,107 @@
 # brics ==
 - nome: "João Pedro Brandão"
   comite: "brics"
-  cargo: "Diretor"
+  forma_id: "3"
   descricao:
   - "João Pedro Brandão is a 19-year-old student of Law at the Pontifical Catholic University of São Paulo. He is a participant of MUNs since high school, and thinks that these simulations are a way to understand how the leaders of the world work and how the most plural nations and organizations deal with the various kinds of problems and situations. In USPMUN 2019, João will be the chairman of the National Security Advisors Meeting and hopes that this experience magnifies every participant's notions on the problematic.​"
 
 - nome: "Miguel Fiorelli"
   comite: "brics"
-  cargo: "Diretor"
+  forma_id: "4"
   descricao:
   - "​Miguel Martins Fiorelli is a 20-year-old student at the Architecture and Urbanism College of the University of São Paulo. Fascinated by the human relations and their influences in the development of space, economics and politics, Miguel found out in the MUN environment an enlightening and rich way of understanding society, belonging to this magic world since he was 15. Alongside with Ramon, Miguel is responsible for the Finance Ministers and Central Bank Governors Meeting in the 11th BRICS Summit."
 
 - nome: "Ramon Baptistella"
   comite: "brics"
-  cargo: "Diretor"
+  forma_id: "5"
   descricao:
   - "Ramon Barbosa Baptistella is a 20-year-old law student at the University of São Paulo. In 3th year, his likes international law, human rights, and public law. Born in Itatiba, he has started participating in MUNs in high school. Now, living in São Paulo, he continue participating in MUNs. He is part of a study group of BRICS at the University of São Paulo. Alongside with Miguel, Ramon is responsible for the Finance Ministers and Central Bank Governors Meeting in the 11th BRICS Summit.​"
 
 - nome: "Thiago Horta"
   comite: "brics"
-  cargo: "Diretor"
+  forma_id: "6"
   descricao:
   - "Thiago Miranda Horta is 18 and a first-year law student at the University of São Paulo. Born in São José dos Campos, he has started participating in MUNs in high school. Since then, south-south cooperation, non alignment and third-worldism have been the subjects of his greater interests regarding international relations, therefore, directing a BRICS committee is an honor. Thiago is responsible for the 9th BRICS Health Ministers Meeting.​"
 
 - nome: "Julia Farhat Terron"
   comite: "brics"
-  cargo: "Diretora"
+  forma_id: "3"
   descricao:
   - "Julia Farhat Terron is 18 and a first-year student at the University of São Paulo, in the Architecture and Urbanism College. She has been participating in Mocks and MUNs since she was in middle school, and has gathered an interest in the political sciences and international relations. Julia is responsible for the Heads of State’s committee in the 11th BRICS Summit.​"
 
 # ciprpc ==
 - nome: "Beatriz Toro"
   comite: "ciprpc"
-  cargo: "Diretora"
+  forma_id: "3"
   descricao:
   - "Beatriz de Oliveira Contrera Toro tem 19 anos, é estudante de ciências sociais na Universidade de São Paulo desde 2018, aspirante a antropóloga. Começou a simular em 2017, durante o colegial, e participou da primeira edição da USPMUN como delegada. Agora, como diretora acadêmica, espera poder testemunhar muitos argumentos bem fundados, debates estimulantes, e resoluções bem formuladas! Curiosidades: é vegetariana, tem uma irmã gêmea, e ama música mais que tudo no mundo (até mais que antropologia). "
 
 - nome: "Guilherme Amorim"
   comite: "ciprpc"
-  cargo: "Diretor"
+  forma_id: "4"
   descricao:
   - "Guilherme Amorim tem 20 anos, desde 2017 estuda Ciências Sociais na Universidade de São Paulo e está no caminho de se tornar um antropólogo. Simulou pela primeira vez em 2018, no USPMUN, e desde então o interesse em simulações só cresceu. Como diretor acadêmico, busca disseminar conhecimento e mediar grandes debates que o tema dessa mesa tem capacidade de ter. Curiosidades: Apesar de não ser baiano, passou a vida toda lá antes de vir fazer universidade, e, sendo seu objeto de estudo na graduação o Peru e a China, teve de começar a estudar chinês."
 
 - nome: "José Mateus Lourenço"
   comite: "ciprpc"
-  cargo: "Diretor"
+  forma_id: "5"
   descricao:
   - "José Mateus Lourenço tem 21 anos, estudou um pouco de economia na Universidade de São Paulo, mas largou tudo pra virar sociólogo, estudando Ciências Sociais na mesma universidade desde 2017. Sua história com simulações começou em 2013, durante o colegial, na EMUN (Etapa Model United Nations), e desde então simulou algumas vezes, inclusive na USPmun de 2018. Como diretor acadêmico, pretende proporcionar debates sérios e qualificados acerca de temas relevantes da contemporaneidade. Curiosidades: É cearense de pouco sotaque, mora em São Paulo a quase dez anos, tendo antes vivido em várias outras cidades do país; desenvolve um projeto de estudo sobre o controle social sobre a população LGBT da cidade de São Paulo e têm interesse por línguas semíticas."
 
 # - nome: "Julia"
 #   comite: "ciprpc"
-#   cargo: ""
+#   forma_id: "6"
 #   descricao:
 #   - ""
 
 # - nome: "Matheus Felipe"
 #   comite: "ciprpc"
-#   cargo: ""
+#   forma_id: "3"
 #   descricao:
 #   - ""
 
 # coi ==
 - nome: "Gabriel"
   comite: "coi"
-  cargo: "Diretor"
+  forma_id: "3"
   descricao:
   - "Meu nome é Gabriel, tenho 19 anos, estou cursando o segundo ano do curso de bacharelado em Ciências Biológicas com ênfase em Biologia Marinha e Gerenciamento Costeiro, na UNESP-Campus do Litoral Paulista. Comecei a simular no ensino médio, no PoliONU. E em 2018 participei da primeira edição do USPMUN. Além disso, já estagiei (e estou estagiando) em ONGs de conservação marinhas e também atuei como professor do cursinho popular Caiçara. Obtive esse interesse nas simulações, justamente porque vi nelas uma oportunidade espaço de debate crítico. Nestas, trago temáticas não habituais e negligenciadas pela comunidade internacional, sendo muitas destas de cunho socioambiental. Meu objetivo principal é fazer com que os delegados absorvam dessa temática, compreendam a problemática e reflitam quanto a atual sociedade de consumo e quais os impactos esta gera."
 
 - nome: "Nicole Gomes"
   comite: "coi"
-  cargo: "Diretora"
+  forma_id: "4"
   descricao:
   - "Meu nome é Nicole Pudo Gomes, tenho 19 anos e estou no meu segundo semestre da Fundação Getúlio Vargas (FGV) no curso de direito em São Paulo. É a primeira vez que sou diretora da USPMUN e primeira vez que participo do evento também, mas, com certeza, não é minha primeira vez em simulações. Já participei como delegada da SiNUS (Brasília - 2016) e da SPMUN (São Paulo - 2016). Além disso, participei de muitas edições do PoliONU (São José dos Campos - São Paulo), como Staff (2014), Delegada (2015), Secretária Geral Executiva (2016) e Diretora (2017), uma vez cada. Também participei do PoliONU Teen quando estava no meu Ensino Fundamental II, sendo Staff em uma edição e Delegada em duas, Secretária Geral Executiva uma vez e Diretora também uma vez. Com certeza, todas essas participações fizeram eu perceber minhas habilidades e minhas inseguranças e acabei por me conhecer mais, e entendi melhor o que eram as coisas que me davam aquela adrenalina gostosa, e que me faziam sentir satisfeita e pertencente a algo. Hoje curso direito e faço parte do Centro Acadêmico do curso de direito da FGV, e tenho outros gostos além de debater e discutir problemáticas mundiais, gosto de fotografia e estudar temas ligados com meio ambiente e principalmente acerca de direito dos animais, um tema tão importante e que expõe tantas atrocidades, e mesmo assim, tão negligenciado. Acredito que o mundo não irá melhorar suas questões de desigualdades e problemas ambientais apenas com acordos internacionais, é preciso que cada um seja um exemplo daquilo que acredita e que possa ter ações condizentes com o que fala, por isso para mim é tão importante alguns movimentos dos quais participo, como o feminismo e o veganismo."
 
 # csta ==
 - nome: "Caique Bodine"
   comite: "csta"
-  cargo: "Diretor"
+  forma_id: "3"
   descricao:
   - "Caique Bodine nasceu em Campinas, no interior paulista, em 1999. Sua vida no mundo das simulações se inicia em meados de 2016, em seu último ano de ensino médio, com sua participação na 4º edição do Facamp Model United Nations. Durante o passar dos anos, ele acumulou experiência em eventos que vão desde simulações internas e regionais até simulações de caráter internacional, como a WFUNA International Model United Nations. Atualmente, Caique, além de músico e escritor amador, é bacharelando em Relações Internacionais pela Universidade de São Paulo, no Instituto de Relações Internacionais (IRI-USP), e um membro integrante da diretoria acadêmica do USP Model United Nations."
 
 - nome: "Raphaela Scola"
   comite: "csta"
-  cargo: "Diretora"
+  forma_id: "4"
   descricao:
   - "Raphaela Scola é bacharelanda do terceiro ano em Relações Internacionais pelas Faculdades Metropolitanas Unidas e possui afinco pelas simulações desde que descobriu, já na sua primeira experiência, este espaço para o desenvolvimento das ferramentas naturais do indivíduo relacionadas à oratória, negociação, disciplina e diplomacia. Atuou como Diretora Acadêmica do Model United Nations FMU 2018 e, no ano seguinte, como Secretária Administrativa da mesma instituição. Concomitantemente a este cargo desafiador, em 2019, participa do USP Model United Nations como Diretora Acadêmica e espera que seus delegados, assim como ela, tirem o maior proveito do evento para descobrir seus limites e superá-los diante de questões sensíveis e de extrema relevância para o Sistema Internacional, tal como profissionais notórios da área o fariam."
 
 - nome: "Aline Batista"
   comite: "csta"
-  cargo: "Diretora"
+  forma_id: "5"
   descricao:
   - "Aline Batista é bacharelanda do 6º semestre de Relações Internacionais pela Centro Universitário das Faculdades Metropolitanas Unidas (FMU), Pesquisadora voluntária do programa de iniciação científica e Monitora Acadêmica da universidade desde o seu ingresso no bacharelado, no ano de 2017. Iniciou sua experiência no universo das simulações, essa ainda recente mas memoravelmente vantajosa, como universitária e nunca mais se ausentou do meio, em delegações ou em diversas comissão acadêmicas de conhecidíssimos eventos, colaborou com o SPMUN, a SiEM e o MUN FMU. Sendo assim, espera que seus próximos delegados adquiram conhecimentos e arcabouços acadêmico-científicos no decurso das discussões e se desenvolvam pessoal e academicamente, a fim de auferir experiências únicas e memoráveis na CPSUA! Além disso, crê que ambos esses eventos são significativos, amplos, simbólicos e necessários, e, em épocas hodiernas de intolerância e em historização de negligências, os seus efeitos cooperam para mudanças locais e sistematizadas globalmente, elencando diálogos e agendas indispensáveis em um sistema de constantes modificações."
-
-
 
 # hong-kong-handover ==
 - nome: "William Radaic"
   comite: "hong-kong-handover"
-  cargo: "Diretor"
+  forma_id: "3"
   descricao: 
   - "Franciscano desanimado e aluno de Economia na FGV nas horas vagas. Amante do Direito Romano e árduo defensor do uso do latim no mundo jurídico, vive uma eterna e turbulenta relação de amor e ódio para com as Arcadas. Comprovadamente viciado em House of Cards, é fascinado por temas que conectam economia, política, direito e RI, além de, como não poderia deixar de ser, todo e qualquer elemento identificado com o movimento pseudo cult. Em seu tempo livre (ou enquanto procrastina), troca preciosas horas de sono em favor de sua atuação como grande proponente de memes de qualidade duvidosa no Facebook. Apesar de ser titular de opiniões fortes e muitas vezes controversas, tenta sempre procurar o caminho da ponderação e do diálogo ao longo do debate. Odeia calcular integrais."
 
 - nome: "Diego Ponce"
   comite: "hong-kong-handover"
-  cargo: "Diretor"
+  forma_id: "4"
   descricao:
   - "Estudo Relações Internacionais na FGV. Volto a morar em São Paulo depois de fazer o ensino médio em Sorocaba. Fiz intercâmbio na Alemanha e já morei nos Estados Unidos."
   - "Além disso, sou um globalista de plantão a la Economist. George Soros e Ian Bremmer são meus padrinhos."
@@ -116,33 +114,32 @@
 
 - nome: "Sarah Fink"
   comite: "hong-kong-handover"
-  cargo: "Diretora"
+  forma_id: "5"
   descricao: 
   - "Mooties deste meu Brasil, como vão? Meu nome é Sarah Fink, faço Direito na USP e cursei um semestre de Administração na FGV. Como toda boa Franciscana, adoro música, arte – principalmente esculturas renascentistas (é, não pergunte) - e basicamente qualquer coisa pseudo-pretensiosa que exista por aí. Nesses meus 19 anos de vida, já participei de algumas simulações, mas resolvi me aposentar para começar a organizá-las. Atualmente, faço parte de dois comitês, sendo um deles sobre os quais aqui vos falo. Além disso, ainda que elas sejam responsáveis por consumir todo o meu tempo, sou obcecada por competições de Arbitragem (não aquelas que envolvem futebol) e a língua alemã. Para aqueles com interesses parecidos, vem de zap, que adoro bater um papo."
 
 - nome: "Eduardo Zollner"
   comite: "hong-kong-handover"
-  cargo: "Diretor"
+  forma_id: "6"
   descricao: 
   - "Eduardo, nascido em São Paulo e renascido na São Francisco, é apaixonado por simulações desde seu ensino médio, tendo completado 8 até agora. Apesar de ter ficado em dúvida entre 5 graduações no momento do vestibular, especialmente entre direito, economia e administração, após completar seus 3 primeiros semestres de graduação, tem (quase) certeza de que fez a escolha certa. Eduardo gosta de direito comercial, mercado financeiro e cozinhar."
-
 
 # idea ==
 - nome: "Sophia"
   comite: "idea"
-  cargo: "Diretora"
+  forma_id: "3"
   descricao: 
   - "Hello, Hello, Hello… Well, my name is Sophia, but you can call me Sophie. I’m 19 years old and I’m in the Second Year of International Relations in FAAP (please don’t judge me, I promise I am cool hahahaha). I am a die hard fan of RuPaul’s Drag Race and Musicals. USPMUN is my second MUN experience as a part of the Bureau, but despite that I love MUNs! Oh and I also have a dog called Branquinha, or Little White, who's afraid of people. "
 
 - nome: "Stefany"
   comite: "idea"
-  cargo: "Diretora"
+  forma_id: "4"
   descricao: 
   - "Hi! My name is Stefany aka Stefinha. I am in the First Year of Psychology in PUC ( Viva la revolution! Just kidding... Or not?). I love Game of Thrones and I hated the end with all my forces. USPMun is my first MUN experience as part of the Bureau. I am loving the experience! Also, I love and plants like cactus and flowers."
 
 - nome: "Theo"
   comite: "idea"
-  cargo: "Diretor"
+  forma_id: "5"
   descricao: 
   - "Hello, everybody! My name is Theo (just Theo, not Teodoro. There, saves you the question). I’m 18 years old and in the first year of History in USP, which I entered mostly because I’m a big history nerd and a bit obsessed with Ancient Cultures (I swear I’m a normal guy… mostly). This is my first MUN experience as part of the Bureau, so please show mercy upon this poor soul. As a side note, I really enjoy reading and even consider myself an amateur writer. And by an amateur, I mean I never finish whatever I start writing."
 
@@ -152,86 +149,86 @@
 # imprensa ==
 - nome: "Carolina Ferraz"
   comite: "imprensa"
-  cargo: "Diretora"
+  forma_id: "3"
   descricao:
   - "Carolina Ferraz tem 20 anos e é estudante de Jornalismo da Faculdade Cásper Líbero. Ainda não sabe em qual área quer se especializar, mas tem um carinho especial pelo Jornalismo Internacional. Apaixonada pela imprensa, é membro deste comitê desde que começou a simular em 2013. Para ela, quem escolhe participar da imprensa vive uma experiência única e muito enriquecedora. É sua primeira vez nesta simulação, mas está disposta a viver esta aventura e a passar um pouco da sua experiência para aqueles que desejarem."
 
 - nome: "Gustavo Duarte"
   comite: "imprensa"
-  cargo: "Diretor"
+  forma_id: "4"
   descricao:
   - "Gustavo Duarte tem 20 anos e é aluno da FFLCH-USP, atualmente cursando Geografia. Começando sua vida de simulações em 2013, é sua primeira vez no USPMUN. Em simulações, é um grande fã de temas que envolvem meio ambiente e questões sociais. Está muito ansioso para dirigir o comitê de imprensa esse ano, com muitos planos e metas desenvolvidas com toda a equipe."
 
 - nome: "Letícia Rocha"
   comite: "imprensa"
-  cargo: "Diretora"
+  forma_id: "5"
   descricao:
   - "Letícia Rocha tem 19 anos e está no primeiro ano de Audiovisual na ECA-USP. Ela tem interesse em se especializar em foto (por enquanto) e aproveita seus momentos livres para participar do time de handebol feminino. Fez simulações durante todo o ensino médio, mas logo mais promete se aposentar. É a primeira vez em que ela é diretora do USPMUN e também a primeira vez que participa dessa simulação de forma geral."
 
 - nome: "Mariana Rocha"
   comite: "imprensa"
-  cargo: "Diretora"
+  forma_id: "6"
   descricao:
   - "Mariana Rocha tem 19 anos e atualmente cursa Audiovisual na ECA-USP. Entre seus interesses estão documentário, publicidade, foto e design. Simula desde 2015, quando entrou no Ensino Médio, e já cumpriu diversas funções, desde mesas diretoras à secretariados. É a primeira vez que simula no USPMUN, e a sua primeira vez numa simulação exclusiva ao Ensino Superior. Ela tem uma irmã gêmea, que também é diretora."
 
 - nome: "Marina"
   comite: "imprensa"
-  cargo: "Diretora"
+  forma_id: "3"
   descricao:
   - "A última diretora se chama Marina, tem 26 anos e foi jornalista na SiEM 2010, diretora do comitê de imprensa no Fórum Emilie 2018 e diretora do Comitê Estratégico de Crise Irã-Iraque na SiEM 2019. É sua primeira vez na USPMUN. Ela acredita que o papel de qualquer comunicador, escritor ou artista é o de desafiar o status quo e denunciar abusos cometidos pelos poderosos. Faz mestrado em literatura brasileira na FFLCH-USP e mostra que aquário é mesmo um signo esquisito até no tema da sua pesquisa."
 
 # onu-mulheres ==
 - nome: "Geórgia Dutra"
   comite: "onu-mulheres"
-  cargo: "Diretora"
+  forma_id: "3"
   descricao:
   - "Geórgia Dutra, com incríveis 17 aninhos também é diretora do comitê ONU Mulheres, com aquela tal de \"Mariana\" e (surpresa) também faz direito na Sanfran (por enquanto pelo menos…). É muito empolgada, principalmente de manhã (não se sabe como, e não conte com tanta empolgação à noite), vive estudando (e trabalhando nesse comitê sensacional) e sempre está disposta a resolver seus problemas, mesmo que às 4 da manhã de uma segunda-feira (evitar tais pedidos, porém rs). Também simula desde 2016 e seu momento mais emocionante foi declarar um golpe de Estado no Egito (e argumentar que não foi golpe, obviamente)."
 
 - nome: "Mariana Pinho"
   comite: "onu-mulheres"
-  cargo: "Diretora"
+  forma_id: "4"
   descricao:
   - "Mariana Pinho conta com (finalmente) 18 aninhos e é diretora do comitê ONU Mulheres. Essa futura advogata estuda na Sanfran, é super simpática e paciente (desde que você também seja) e tem trabalhado dias, tardes e madrugadas (porque de noite, pelo menos, tem que estudar rs) para esse belíssimo comitê. Simula desde 2016 e parece ter uma \"quedinha\" por israel, porque sempre recebe essa representação."
 
 # toeo ==
 - nome: "Gabriel Paes"
   comite: "toeo"
-  cargo: "Diretor"
+  forma_id: "3"
   descricao:
   - "Olá, meu nome é Gabriel Paes e estou cursando o último ano da graduação de Relações Internacionais no Centro Universitário IBMR. Possuo uma vasta experiência na direção de comitês convencionais, assim como de Gabinetes de Guerra e Teatros de Operações. Será um prazer recebê-los no USPMUN e posso lhes garantir que trabalharemos muito para promover um ambiente de extrema responsabilidade, descontração e ampliação de conhecimentos."
 
 - nome: "Matheus Ramiro"
   comite: "toeo"
-  cargo: "Diretor"
+  forma_id: "4"
   descricao:
   - "Oi, meu nome é Matheus Ramiro e atualmente estou no último período de Relações Internacionais no IBMR. Tenho grande experiência em direção de comitês tradicionais e esse será meu primeiro gabinete de guerra/teatro de operações, espero que todos se divirtam e tenham uma experiência extremamente proveitosa em nosso comitê."
 
 - nome: "Ilana"
   comite: "toeo"
-  cargo: "Diretora"
+  forma_id: "5"
   descricao:
   - "Meu nome é Ilana, mas sou mais conhecida como Ila,  nasci na cidade do Rio de Janeiro e estou 6º período de Relações Internacionais no IBMR. Meus estudos são direcionados a área de História das Relações Internacionais e Marketing Internacional. Já participei de 20 MUNs, como delegada e diretora acadêmica e atualmente sou Secretária de Comunicação do V IBMR MUN."
 
 - nome: "Henrique Magalhães"
   comite: "toeo"
-  cargo: "Diretor"
+  forma_id: "6"
   descricao:
   - "Konnichiwa/Privet, meu nome é Henrique Magalhães, mais conhecido como Riki, e curso o último ano de graduação em Relações Internacionais no Centro Universitário IBMR, no Rio de Janeiro, direcionando meus estudos ao leste asiático. Tenho participação em mais de 25 modelos no Brasil e no exterior, seja como delegado, diretor ou membro do secretariado. Participei do USP MUN ano passado como delegado, e este ano terei o prazer e a honra de ser diretor do Gabinete deste evento ímpar que eu amo. Vejo vocês em setembro."
 
 - nome: "Leonardo Marques"
   comite: "toeo"
-  cargo: "Diretor"
+  forma_id: "3"
   descricao:
   - "Olá a todos meu nome é Leonardo Marques e curso o último semestre de relações internacionais pela universidade Anhembi Morumbi em São Paulo, direciono meus estudos a área de segurança e defesa. Possuo cerca de 18 simulações no currículo e aguardo a todos em setembro."
 
 - nome: "Marcos Victor Alves"
   comite: "toeo"
-  cargo: "Diretor"
+  forma_id: "4"
   descricao:
   - "Senhoras e senhores, meu nome é Marcos Victor Alves, estou no segundo ano de Relações Internacionais no Centro Universitário IBMR, no Rio de Janeiro, e, apesar de ter descoberto a \"modelândia\" recentemente (ano passado), me encontro apaixonado e não pretendo largar tão cedo! É uma honra ser diretor em meu primeiro Gabinete de Guerra na simulação da maior faculdade do Brasil. Possuo 5 simulações em meu currículo e espero ajudá-los a fazer deste Gabinete o melhor possível!"
 
 - nome: "Maria Luiza"
   comite: "toeo"
-  cargo: "Diretora"
+  forma_id: "5"
   descricao:
   - "Olá! Meu nome é Maria Luiza e estou no terceiro período de Relações Internacionais no IBMR. Sou do Rio de Janeiro, e será um prazer dirigir meu primeiro gabinete de guerra na USPMUN, sobre um tema tão querido quanto a guerra Russo-Japonesa. Espero que todos se divirtam e aproveitem essa oportunidade. Nos vemos em setembro!"
