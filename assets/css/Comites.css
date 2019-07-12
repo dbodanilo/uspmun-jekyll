@@ -39,10 +39,26 @@
 
 .comite-columns {
     column-count: 2;
+    column-width: 15rem;
 }
 
 .comite-paragrafo {
     text-align: justify;
+    text-align-last: right;
+}
+
+
+.subcomite1-titulo {
+    text-align: left;
+}
+.subcomite1-paragrafo {
+    text-align-last: left;
+}
+
+.subcomite2-titulo {
+    text-align: right;
+}
+.subcomite2-paragrafo {
     text-align-last: right;
 }
 
@@ -168,4 +184,18 @@
 #forma-comite6 {
     left: -2rem;
     width: 120%;
+}
+
+#forma-brics1 {
+    left: -2rem;
+    width: 110%;
+
+    height: 135%;
+}
+
+#forma-brics2 {
+
+    width: 110%;
+    top: -3rem;
+    height: 115%;
 }
