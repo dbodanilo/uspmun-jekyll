@@ -8,7 +8,8 @@ layout: shell
 
 <div class="row justify-content-center mb-2">
     <div class="col-md-11 py-3 irregular irregular-block">
-        <img id="forma-comite1" class="irregular forma-comite" src="/assets/Formas/FormaComites/FormaComiteIndividual1.png">
+        <img id="forma-comite1" class="irregular forma-comite"
+            src="/assets/Formas/FormaComites/FormaComiteIndividual1.png">
 
         <img class="comite-img comite-main_img center" src="/assets/images/Comites/{{ comite.id }}.png"
             alt="banner {{ comite.titulo }}">
@@ -27,7 +28,8 @@ layout: shell
 
 <div class="row justify-content-center my-3">
     <div class="col-md-10 py-5 comite-columns irregular irregular-block">
-        <img id="forma-comite2" class="irregular forma-comite" src="/assets/Formas/FormaComites/FormaComiteIndividual2.png">
+        <img id="forma-comite2" class="irregular forma-comite"
+            src="/assets/Formas/FormaComites/FormaComiteIndividual2.png">
 
         {%for paragrafo in comite.paragrafos %}
         <p class="comite-paragrafo"> {{ paragrafo }} </p>
@@ -35,10 +37,39 @@ layout: shell
     </div>
 </div>
 
+{% if comite.subcomites %}
+
+{% for subcomite in comite.subcomites %}
+<div class="row justify-content-end">
+
+    {% if subcomite.forma_id == "2" %}
+    <div class="col-md-2"></div>
+    {% endif %}
+
+    <div class="col-md-10 p-4 irregular irregular-block">
+        <img id="forma-brics{{ subcomite.forma_id }}" class="irregular forma-comite" src="/assets/Formas/FormasBRICS/FormaBRICS{{ subcomite.forma_id }}.png">
+        <h3 class="subcomite{{ subcomite.forma_id }}-titulo">{{ subcomite.titulo }}</h3>
+
+        {% for subpara in subcomite.paragrafos %}
+        <p class="subcomite{{ subcomite.forma_id }}-paragrafo"> {{ subpara }} </p>
+        {% endfor %}
+
+    </div>
+
+    {% if subcomite.forma_id == "1" %}
+    <div class="col-md-2"></div>
+    {% endif %}
+
+</div>
+{% endfor %}
+
+{% endif %}
+
 <div class="row justify-content-center">
     {%for diretor in diretores %}
     <div class="col-md-5 my-3 py-3 center irregular irregular-block">
-        <img id="forma-comite{{ diretor.forma_id }}" class="irregular forma-comite" src="/assets/Formas/FormaComites/FormaComiteIndividual{{ diretor.forma_id }}.png">
+        <img id="forma-comite{{ diretor.forma_id }}" class="irregular forma-comite"
+            src="/assets/Formas/FormaComites/FormaComiteIndividual{{ diretor.forma_id }}.png">
 
         <h4 class="diretor-nome my-3"> {{ diretor.nome }} </h4>
         {%for paragrafo in diretor.descricao %}

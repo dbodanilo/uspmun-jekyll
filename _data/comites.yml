@@ -26,7 +26,49 @@
     regular: "The development of BRICS HIV research network"
   resumo: ""
   paragrafos:
-  - ""
+  - "With the doom of the Cold War and the awakening of the New World Order, a multipolar dynamic of geopolitical influence arose in sudden. Yet, differently from the past centuries, these centers were not exclusively in developed countries, but also included emerging markets in colonialism-ravaged nations."
+  - "The BRICS - Brazil, Russia, India, China and South Africa - is not a formal group. It is not a consensual organization built up in common values. But it is, indeed, the outcome of the informal union of five giants with a clear goal: improve their geopolitical influence and mutually develop their economies. The 5 countries are tied by annual summits where numerous sectors of government and civil society meet in order to exchange data, experience and resources, and the USPMUN's \"11th BRICS Summit- Brazil, 2019\" will simulate four of them:"
+  subcomites:
+  - id: "heads-of-state"
+    forma_id: "1"
+    forma_src: ""
+    titulo: "Heads of State"
+    frases:
+    - ""
+    resumo: ""
+    paragrafos:
+    - "BRICS countries have been recently acknowledged as technologically advanced and innovative. China has been dominating the high-tech market, Russia has had incredible military outbreaks and Brazil, South Africa and India have been producing more intellectual studies and personalities every year. Therefore, these countries have plenty of patents, technologies and techniques to offer one another, and the exchange that has been in course over the last few years has proven that, with strong cooperation in ST&I, the economies of the BRICS members may rise even higher."
+    - "The Heads of State’s meeting, thus, will be discussing “Partnerships for the strengthening of science, technology and innovation in BRICS countries”, in order to enable the exchange of these increasing new resources between members and, consequently, guarantee tighter economic bonds."
+  - id: "security-advisors"
+    forma_id: "2"
+    forma_src: ""
+    titulo: "National Security Advisors"
+    frases:
+    - ""
+    resumo: ""
+    paragrafos:
+    - "The discussions about corruption and money laundering are very important. Being some of the most influential problems of a developing country, these two issues have the power to destabilize a nation's economy. Having said that, the National Security Advisors Meeting hopes to perform a high-level discussion about the situation of the BRICS countries."
+  - id: "finance-ministers"
+    forma_id: "1"
+    forma_src: ""
+    titulo: "Finance Ministers and Central Bank Governors"
+    frases:
+    - bold: ""
+      regular: ""
+    resumo: ""
+    paragrafos:
+    - "At this meeting, the BRICS Finance Ministers alongside with their Central Bank Governors will seek arrangements for the better structurement and assurancement of these good commercial flows between its members and the expanding fronts to connect other developing countries with the financial bonds through infrastructure enhancement. Each country and its location can provide rich sources and connections with other States that are valuable to the BRICS as a group or even to some individual goals."
+  - id: "health-ministers"
+    forma_id: "2"
+    forma_src: ""
+    titulo: "Health Ministers"
+    frases:
+    - ""
+    resumo: ""
+    paragrafos:
+    - "HIV stands for human immunodeficiency virus, which was first detected in 1959. Back then, AIDS (Acquired Immunodeficiency Syndrome), the immunological disease resulting from HIV contamination, was not yet known. In the decade of 1970 the virus spreaded around the globe, it was the beginning of the epidemic that would come in the following years. Thereafter, more cases of the disease began to surface, causing over 13 million deaths since the beginning of the epidemic, and the struggle to find a cure or an antidote against the HIV virus resulted in greater research and popularity of the illness."
+    - "Currently, more than 26 million people are infected by the HIV virus, the majority of them in sub-Saharan Africa. Great advances have been made in terms of improving life quality of HIV carriers and decreasing viral load. However, the cure for HIV has not yet been found."
+    - "Therefore, there are still important steps to be taken in order to reduce HIV caused deaths, especially in the underdeveloped countries. In this matter, BRICS countries may lead the way in third world made researches on HIV treatment, prevention and cure. Intra-BRICS cooperations on health have already proven to be successful with the BRICS tuberculosis research network. Now, it’s time to take what the group has learned from the previous experience and apply it to a much more complex project, a BRICS HIV research network."
 
 - id: "ciprpc"
   forma_src: "/assets/Formas/FormaComites/FormaComites3.png"
