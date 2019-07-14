@@ -1,5 +1,15 @@
 # bid ==
+- nome: "Victor Freitas"
+  comite: "bid"
+  forma_id: "3"
+  descricao:
+  - "Me chamo Victor Gonzalez Freitas e serei o diretor do comitê! Atualmente estou no 3o semestre da graduação de ciências econômicas pela PUC-SP (Pontifícia Universidade Católica de São Paulo) e também estou me graduando em Ciências Atuariais, atualmente no 1o semestre,  pela UNIFESP (Universidade Federal de São Paulo). Simulo desde 2016 e já participei de aproximadamente de 15 simulações. Como gosto muito de estudar, um dos meus sonhos é seguir a carreira de pesquisador em economia ou de professor."
 
+- nome: "Maria Laura Preuss"
+  comite: "bid"
+  forma_id: "4"
+  descricao:
+  - "Sou a Maria Laura Preuss e estarei pela primeira vez dirigindo um comitê. O gosto por simulações foi uma surpresa positiva que surgiu no ano passado. Minha primeira simulação universitária foi o USPMUN em 2018, e eu gostei tanto que fui logo de cara enfrentar a maior simulação do mundo em 2019. Faço graduação na PUC/SP em Direito, mas sou muita curiosa  e interessada em outros assuntos que não sejam do mundo jurídico."
 
 # brics ==
 - nome: "João Pedro Brandão"
@@ -64,7 +74,7 @@
 #   - ""
 
 # coi ==
-- nome: "Gabriel"
+- nome: "Gabriel Grellet"
   comite: "coi"
   forma_id: "3"
   descricao:
