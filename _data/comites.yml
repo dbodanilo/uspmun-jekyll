@@ -5,9 +5,10 @@
   - bold: ""
     regular: "Agenda Aberta sobre Projetos de Infraestrutura e Ciência, Tecnologia e 
   Inovação (STI)"
+  # - "Apresentando o fim da hegemonia ocidental no mundo bancário"
   resumo: ""
   paragrafos:
-  - ""
+  - "O BID (Banco Islâmico de Desenvolvimento) é uma organização internacional que gerencia e analisa investimentos no Oriente Médio. Embora seja um banco, uma das suas características mais peculiares é a de que não cobra juros pelos empréstimo feitos, de acordo com a shariah, um código ético-religioso que guia os países reunidos no banco. É importante ressaltar que a instituição visa o desenvolvimento e a cooperação entre os países que a compõem, o que resulta num efeito de expansão do progresso e desenvolvimento dentro de cada país. O BID faz parte de um movimento chamado Islamic Banking e, por isso, inaugura preceitos econômicos mesclados com ideais religiosos, totalmente desconhecidos no mundo ocidental."
 
 - id: "brics"
   forma_src: "/assets/Formas/FormaComites/FormaComites2.png"
