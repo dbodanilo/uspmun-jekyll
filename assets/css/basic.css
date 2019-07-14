@@ -115,6 +115,14 @@ nav {
     padding: 0 0.5em 0 2em;
 }
 
+.listless {
+    list-style: none;
+}
+
+.negative-margin {
+    margin-left: -2.5rem;
+}
+
 .d-none {
     display: none;
 }
