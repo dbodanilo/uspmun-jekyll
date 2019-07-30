@@ -1,12 +1,16 @@
-# AMUN
+# AMUN - branco
 # FDSBCMUN
 # IBMRMUN
 # MUNFMU
 # PEMUN
+# SAOI
 # SiEM
 # SiUR
 # SOOI
 # TEMAS
+# UFRGSMUN
+# UFRJMUN
+# UFUMUN
 
 # - id: "amun"
 #   nome: "AMUN"
@@ -33,6 +37,11 @@
   link: "https://www.pernambucomun.com.br/"
   image_src: "/assets/images/parceiro-pemun_vermelho.png"
 
+- id: "saoi"
+  nome: "SAOI"
+  link: "http://www.saoisorocaba.com.br/"
+  image_src: "/assets/images/parceiro-saoi.png"
+
 - id: "siem"
   nome: "SiEM"
   link: "http://www.siemsp.com"
@@ -52,4 +61,18 @@
   nome: "TEMAS"
   link: "http://temasmg.com"
   image_src: "/assets/images/parceiro-temas.png"
-  
+
+- id: "ufrgsmun"
+  nome: "UFRGSMUN"
+  link: "https://www.ufrgs.br/ufrgsmun/2018/web/"
+  image_src: "/assets/images/parceiro-ufrgsmun_2019.png"
+
+- id: "ufrjmun"
+  nome: "UFRJMUN"
+  link: "https://www.ufrjmun.com/"
+  image_src: "/assets/images/parceiro-ufrjmun_2019.png"
+
+- id: "ufumun"
+  nome: "UFUMUN"
+  link: "https://www.ufumun.com/"
+  image_src: "/assets/images/parceiro-ufumun.png"
