@@ -6,6 +6,8 @@ layout: shell
 
 {% assign diretores = site.data.diretores | where: 'comite', page.comite %}
 
+{% assign delegacoes = site.data.representacoes | where: 'comite', page.comite %}
+
 <div class="row justify-content-center mb-2">
     <div class="col-md-11 py-3 irregular irregular-block">
         <img id="forma-comite1" class="irregular forma-comite"
@@ -31,7 +33,7 @@ layout: shell
         <img id="forma-comite2" class="irregular forma-comite"
             src="/assets/Formas/FormaComites/FormaComiteIndividual2.png">
 
-        {%for paragrafo in comite.paragrafos %}
+        {% for paragrafo in comite.paragrafos %}
         <p class="comite-paragrafo"> {{ paragrafo }} </p>
         {% endfor %}
     </div>
@@ -47,7 +49,8 @@ layout: shell
     {% endif %}
 
     <div class="col-md-10 p-4 irregular irregular-block">
-        <img id="forma-brics{{ subcomite.forma_id }}" class="irregular forma-comite" src="/assets/Formas/FormasBRICS/FormaBRICS{{ subcomite.forma_id }}.png">
+        <img id="forma-brics{{ subcomite.forma_id }}" class="irregular forma-comite"
+            src="/assets/Formas/FormasBRICS/FormaBRICS{{ subcomite.forma_id }}.png">
         <h3 class="subcomite{{ subcomite.forma_id }}-titulo">{{ subcomite.titulo }}</h3>
 
         {% for subpara in subcomite.paragrafos %}
@@ -64,6 +67,24 @@ layout: shell
 {% endfor %}
 
 {% endif %}
+
+<div class="row">
+    <div class="col-md-12 mt-5 p-5 comite-columns irregular irregular-block">
+        <img id="forma-brics1" class="irregular forma-comite" src="/assets/Formas/FormasBRICS/FormaBRICS1.png">
+        {% for grupo in delegacoes %}
+        <h4 class="text-left">{{ grupo.grupo }}</h4>
+
+        <ul class="listless negative-margin">
+
+            {% for delegacao in grupo.nomes %}
+            <li>{{ delegacao }}</li>
+            {% endfor %}
+
+        </ul>
+        {% endfor %}
+
+    </div>
+</div>
 
 <div class="row justify-content-center">
     {%for diretor in diretores %}
