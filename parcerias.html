@@ -7,10 +7,6 @@ canonical_url: https://uspmun.com.br/parcerias.html
 {% assign patrocinadores = site.data.patrocinadores %}
 {% assign parceiros = site.data.parceiros %}
 
-{% comment %}
-{% assign prop = simulacoes.length %}
-{% endcomment %}
-
 <!-- Patrocinadores -->
 <div class="row">
     <div class="col-md-5 irregular irregular-block">
@@ -22,7 +18,7 @@ canonical_url: https://uspmun.com.br/parcerias.html
 <div class="row">
 
     {% for patro in patrocinadores %}
-    <div class="col-auto center">
+    <div class="col-md-4 p-3 center">
         <a href="{{ patro.link }}">
             <img class="img-fluid img-patro" src="{{ patro.image_src }}" alt="{{ patro.nome }}">
         </a>
@@ -39,10 +35,10 @@ canonical_url: https://uspmun.com.br/parcerias.html
         <h3 class="titulo-parceria">parceiros</h3>
     </div>
 </div>
-<div class="row">
+<div class="row justify-content-center">
 
     {% for parceiro in parceiros %}
-    <div class="col-auto center">
+    <div class="col-md-3 col-parceiro m-2 center">
         <a href="{{ parceiro.link }}">
             <img class="img-fluid img-parceiro" src="{{ parceiro.image_src }}" alt="{{ parceiro.nome }}">
         </a>

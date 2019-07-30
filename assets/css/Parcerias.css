@@ -1,7 +1,6 @@
 .img-patro, .img-parceiro {
     display: block;
     margin: 2vh auto;
-    max-width: 80vw;
 }
 
 .img-patro {
@@ -10,6 +9,10 @@
 
 .img-parceiro {
     max-height: 25vh;
+}
+
+.col-parceiro {
+    max-width: 90vw;
 }
 
 .titulo-parceria {
