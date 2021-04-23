@@ -2,7 +2,8 @@
 <nav class="navbar flex-column navbar-expand-lg outer-nav text-right p-0">
     <div class="row w-100">
         <div class="col-md-12 irregular text-right">
-            <img id="forma-menu0" class="irregular forma-menu" src="/assets/Formas/FormasMenu_PagInicial/FormaMenu0.png">
+            <img id="forma-menu0" class="irregular forma-menu"
+                src="/assets/Formas/FormasMenu_PagInicial/FormaMenu0.png">
             <a href="/index.html" class="navbar-brand">
                 <img class="img-fluid bar-logo" src="/assets/images/logo_branco-horizontal_mid.png" alt="Logo USPMUN">
             </a>
@@ -15,14 +16,20 @@
     <div class="row w-100">
         <div class="col-md-10 p-0">
             <div class="collapse navbar-collapse d-lg-flex irregular justify-content-end w-100" id="main-navbar">
-                <img id="forma-menu1" class="irregular forma-menu" src="/assets/Formas/FormasMenu_PagInicial/FormaMenu1.png">
+                <img id="forma-menu1" class="irregular forma-menu"
+                    src="/assets/Formas/FormasMenu_PagInicial/FormaMenu1.png">
                 <ul class="navbar-nav flex-column pt-4 pt-md-5">
-                    {% for page in site.data.navigation %}
-                    <li class="nav-item text-right pr-3 pr-md-0">
+                    {% for item in site.data.navigation %}
+                    <li class="nav-item text-right h-100 pr-3 pr-md-0">
                         <!-- | upcase -->
-                        <a href="{{ page.link }}" class="nav-link pr-1">{{ page.name }}</a>
+                        <a href="{{ item.link }}" class="nav-link pr-1 mb-3">{{ item.name }}</a>
+                        <!-- {% if item.ascii == page.ascii %}
+                        <img id="forma-menu{{page.ascii}}" class="irregular menu menu-active"
+                            src="/assets/Formas/FormasMenu_PagInicial/FormaMenu{{page.ascii}}.png">
+                        {% else %} -->
+                        <hr class="menu">
+                        <!-- {% endif %} -->
                     </li>
-                    <hr class="menu">
                     {% endfor %}
                 </ul>
             </div>
